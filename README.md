@@ -1,1 +1,1 @@
-# AI_seminar1 - Weather pollution prediction
+# AI seminar 1 - Weather pollution prediction
